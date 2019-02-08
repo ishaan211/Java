@@ -6,7 +6,7 @@ public class Find {
 		String str1 = "hey";
 		String str2 = "maven";
 		String str3 = "tez";
-		String str4 = "miniaturey";
+		String str4 = "miniature";
 		String str5 = "ray";
 		String str6 = "rule";
 		int count =0;

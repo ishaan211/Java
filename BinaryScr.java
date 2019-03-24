@@ -5,7 +5,8 @@ public class BinaryScr {
 		while(first<=last){
 			if(arr[mid] < key){
 				first = mid + 1;
-			}elseif(arr[mid] == key){
+			}
+			else if(arr[mid] == key){
 				System.out.println("Element found at index " + mid);
 				break;
 			}else{

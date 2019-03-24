@@ -20,8 +20,8 @@ void printStates() {
 		// TODO Auto-generated method stub
 		Car c1 = new Car();
 		
-		//invoking the methids
-		c1.chanDirec("n");
+		//invoking the methods
+		c1.chanDirec('n');
 		c1.chanGear(2);
 		c1.chanSpeed(50);
 		c1.printStates();

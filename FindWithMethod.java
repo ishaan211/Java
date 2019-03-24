@@ -7,7 +7,7 @@ public class FindWithMethod {
 	void getTotalWordCount(){
 		for(int i=0;i < str.length();i++){
 			char ch = str.charAt(i);
-			if(str.charAt(i)==' ' && str.charAt(i)!==' '{
+			if(str.charAt(i)==' ' && str.charAt(i)!=' '){
 				count++;
 			}
 			

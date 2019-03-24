@@ -3,7 +3,8 @@ class Students
 	String name;
 	int salary;
 	static String company = "spacex";
-	
+	String a;
+	int b;
 	void setValue(String a, int b){
 		name = a;
 		salary = b;

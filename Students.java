@@ -2,9 +2,11 @@ class Students
 {
 	String name;
 	int salary;
+	String a;
+	int b;
 	static String company = "spacex";
 	
-	void setValue(String a, int b){
+	void setValue(String a, int  b){
 		name = a;
 		salary = b;
 	}
